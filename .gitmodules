@@ -1,29 +1,29 @@
 [submodule "libraries/chainbase"]
 	path = libraries/chainbase
-	url = https://github.com/eosio/chainbase
+	url = https://github.com/smartbitcoinone/chainbase
         ignore = dirty
 [submodule "libraries/appbase"]
 	path = libraries/appbase
-	url = https://github.com/eosio/appbase
+	url = https://github.com/smartbitcoinone/appbase
         ignore = dirty
 [submodule "contracts/musl/upstream"]
 	path = contracts/musl/upstream
-	url = https://github.com/EOSIO/musl.git
+	url = https://github.com/smartbitcoinone/musl.git
 	branch = eosio
 [submodule "contracts/libc++/upstream"]
 	path = contracts/libc++/upstream
-	url = https://github.com/EOSIO/libcxx.git
+	url = https://github.com/smartbitcoinone/libcxx.git
 	branch = eosio
 [submodule "externals/binaryen"]
 	path = externals/binaryen
-	url = https://github.com/EOSIO/binaryen
+	url = https://github.com/smartbitcoinone/binaryen
 
 [submodule "libraries/softfloat"]
 	path = libraries/softfloat
-	url = https://github.com/eosio/berkeley-softfloat-3
+	url = https://github.com/smartbitcoinone/berkeley-softfloat-3
 [submodule "externals/magic_get"]
 	path = externals/magic_get
-	url = https://github.com/EOSIO/magic_get
+	url = https://github.com/smartbitcoinone/magic_get
 [submodule "libraries/fc"]
 	path = libraries/fc
-	url = https://github.com/EOSIO/fc
+	url = https://github.com/smartbitcoinone/fc
