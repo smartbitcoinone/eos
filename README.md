@@ -50,3 +50,15 @@ EOSIO currently supports the following operating systems:
 <a name="gettingstarted"></a>
 ## Getting Started
 Instructions detailing the process of getting the software, building it, running a simple test network that produces blocks, account creation and uploading a sample contract to the blockchain can be found on the [Wiki](https://github.com/EOSIO/eos/wiki) for this GitHub repository.
+
+## Full Node List
+
+address | http port | p2p port
+---- | --- | ---
+node001.bitpq.com | 18000 | 19000
+node002.bitpq.com | 18000 | 19000
+node003.bitpq.com | 18000 | 19000
+node004.bitpq.com | 18000 | 19000
+node005.coinpp.com | 18000 | 19000
+node006.coinpp.com | 18000 | 19000
+node007.coinpp.com | 18000 | 19000
