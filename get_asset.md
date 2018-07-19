@@ -1,3 +1,8 @@
+# 通过构造离线交易来领取SBC步骤
+1. 下载[ONE钱包](http://app.onechain.one/appstart.html).
+2. 在ONE钱包中创建SBC账号.
+3. 使用EOS的私钥来签名并构造离线交易, 然后PUSH. 完成从快照账户到新SBC账号中的转账.
+
 ## 构造离线交易
 
 NOTE:
