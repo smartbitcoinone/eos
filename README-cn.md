@@ -140,7 +140,7 @@ testsbcbuild@ubuntu:~/sbc-project/sbc$ ./eosio_build.sh
 如果因为网络问题MongoDB 3.6.3不能下载安装，请尝试以下方法：
 1. 修改源代码根目录scripts文件夹下的eosio_build_ubuntu.sh文件内容，在208行处`https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.3.tgz` 修改为`http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.3.tgz`
 2. 再次运行eosio_build.sh，在安装编译过程中，如果不是root用户，需要输入认证密码提权才能继续。
-3. 编译完成图示
+3. 编译完成
 
 ### 3、编译完成后注意事项
   1. 编译完成后程序生成目录在源代码根目录的build/programs目录下。
