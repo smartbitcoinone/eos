@@ -4,7 +4,7 @@
 
 [中文SBC编译文档](./README-cn.md)
 
-[SBC区块浏览器](http://block.smartbitcoin.one/)
+[SBC区块浏览器](http://block.sbc.one/)
 
 Welcome to the EOSIO source code repository! This software enables businesses to rapidly build and deploy high-performance and high-security blockchain-based applications.
 
