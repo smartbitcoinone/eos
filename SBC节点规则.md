@@ -33,6 +33,8 @@ CPU：4核
 
 # SBC BP推荐架构
 
+![node_struct](./images/node-struct.png)
+
 # BP节点安全配置建议
 
 1. RPC 安全
